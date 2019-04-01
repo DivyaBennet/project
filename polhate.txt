@@ -1,0 +1,344 @@
+these bitches even worst they ll send them guys for you
+Sentiment(polarity=0.6000000000000001, subjectivity=0.9)
+
+these hoes like niggas that spend money not talk bout it
+Sentiment(polarity=0.1875, subjectivity=0.3333333333333333)
+
+we dont trust these niggas all these bitches
+Sentiment(polarity=-0.019999999999999997, subjectivity=0.27999999999999997)
+
+yall niggas b cuffing hoes cause yall aint never have bitches
+Sentiment(polarity=0.5, subjectivity=0.5)
+
+you dodge a bullet
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+Okay ajay got one more time to call me a bitch in one of his lit sub tweets. Like bitch I will fucc yo lit life you got going UP
+Sentiment(polarity=0.2681818181818182, subjectivity=0.42727272727272725)
+
+you are all niggers
+Sentiment(polarity=-0.43333333333333335, subjectivity=0.8666666666666667)
+
+youu got wild bitches tellin you lies
+Sentiment(polarity=0.25, subjectivity=0.5)
+
+young buck wanna eat!!.. dat nigguh like I aint fuckin dis up again
+Sentiment(polarity=0.13636363636363635, subjectivity=0.45454545454545453)
+
+why tf is this bitch in my class wearing all brewers shit it is football season
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+why the fuck did twitter move the new tweet box to above the feed lol it looks fucking retarded
+Sentiment(polarity=-0.30000000000000004, subjectivity=0.75)
+
+why you act like a little booshie bitch now, that is why you do not have friends hoe
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+whys this bitch wearing a striped tshirt and nike shocks
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+will u sell dat pussy for me
+Sentiment(polarity=0.05, subjectivity=0.1)
+
+women hate hoes becuz they fuckin up the economy
+Sentiment(polarity=0.21666666666666667, subjectivity=0.24444444444444446)
+
+wonder if they gon have em for the low on nigger friday
+Sentiment(polarity=0.6000000000000001, subjectivity=0.9)
+
+would not be such a bitch if people did not piss me off 24/7
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+wow im a bitch????? nice to fucking know.
+Sentiment(polarity=0.125, subjectivity=0.6666666666666666)
+
+wow im gonna smoke myself retarded when i get home
+Sentiment(polarity=0.08333333333333333, subjectivity=0.4444444444444444)
+
+will u love dat nigga even if he lose it all... or will u dip like the groupie hoes searching for another
+Sentiment(polarity=-0.07777777777777779, subjectivity=0.14444444444444446)
+
+wow! RT @Tendilkar: RT @LyricalSunset: RT @LilMissCuntCake: Some bitches just deserve to get punched. In the vagina.
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+wow.... a bird just shitted on me
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+wth is that playing missy? ........ i mean seriously? RT @mr_republicann: This movie gone be trash http://t.co/8BIppVUvzr
+Sentiment(polarity=-0.8, subjectivity=0.9)
+
+wut spook me even more is its gon be dark when nigga drive outta hea..... im sick already
+Sentiment(polarity=-0.13333333333333333, subjectivity=0.6)
+
+y all I am so mad I wasted them calories on that honey bun.. that ho was dry as hell
+Sentiment(polarity=-1.0, subjectivity=1.0)
+
+x_x RT @LaDarinAintShit: Fat bitches with normal sized legs be looking like car keys
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+y give a bitch an inch when she rather have 9
+Sentiment(polarity=0.3333333333333333, subjectivity=0.26666666666666666)
+
+y all hoes avoid schemes
+Sentiment(polarity=0.2833333333333334, subjectivity=0.6444444444444444)
+
+y all moms was hoes with no morals so i am not surprised
+Sentiment(polarity=0.425, subjectivity=0.9375)
+
+y all remember that tall ass dyke named Jay??? Lmfaooo
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+ya bitch aint bad nigga, you aint got no taste
+Sentiment(polarity=0.6, subjectivity=0.8)
+
+sya girl pussy is trash as fuck
+Sentiment(polarity=0.11818181818181818, subjectivity=0.32727272727272727)
+
+y all niggers have a good thanksgiving
+Sentiment(polarity=0.24318181818181817, subjectivity=0.5522727272727272)
+
+yal some faggots yup nigga you n you fuckin fruit cups.
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+yall crazy hoes need jesus lol
+Sentiment(polarity=0.13636363636363635, subjectivity=0.45454545454545453)
+
+yall pussies i swur
+Sentiment(polarity=-0.015151515151515152, subjectivity=0.3106060606060606)
+
+yeah I am a bitch, but guess what? you are still a slut
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+yeah I am small den a hoe http://t.co/VV3qdTo7MG
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+yeah i got soul i was brought up by colored women
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+yeah these valley faggots can go fuck themselves
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+yes good shapely eurotrash manbootyyo bitch look like a boogawolf
+Sentiment(polarity=-0.125, subjectivity=0.375)
+
+yet this nigga still checkin up on his old hoes.....
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+yo bitch want that vitamin D she lookin desperateyo bitch whippin in the early morning
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+yo hoe will get slayed
+Sentiment(polarity=0.5, subjectivity=0.5)
+
+you a hoe nigga forreal
+Sentiment(polarity=0.8, subjectivity=0.7)
+
+you a pussy ass nigga and I know it nigga.
+Sentiment(polarity=-0.0638888888888889, subjectivity=0.7638888888888888)
+
+you are a hoe, hoe, &amp; a hoe
+Sentiment(polarity=-0.06666666666666665, subjectivity=0.6)
+
+you bitches love yall some corny nigga
+Sentiment(polarity=-0.8, subjectivity=0.8)
+
+you are not gotta be a dyke to like hoes
+Sentiment(polarity=-0.8, subjectivity=1.0)
+
+you can not cuff a hoe lmao
+Sentiment(polarity=0.7, subjectivity=0.6000000000000001)
+
+you drove me redneck crazy
+Sentiment(polarity=-0.25, subjectivity=0.7250000000000001)
+
+you fake niggah lolol
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+you got niggas, and i got bitches
+Sentiment(polarity=-0.8, subjectivity=0.8)
+
+you hoe spice
+Sentiment(polarity=-0.050000000000000044, subjectivity=0.75)
+
+you just want some attention hoe
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+you look like AC Green...bitch don not call here anymore...
+Sentiment(polarity=0.05, subjectivity=1.0)
+
+you gotta understand that these bitches are childish
+Sentiment(polarity=0.3833333333333333, subjectivity=0.5166666666666667)
+
+you look like your 12 stop talking about fucking bitches
+Sentiment(polarity=0.5, subjectivity=0.5)
+
+you niggers cheat on ya girlfriends? smh....
+Sentiment(polarity=0.35, subjectivity=0.35000000000000003)
+
+you might as well gone pussy pop on a stage
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+you worried bout other bitches, you need me for?
+Sentiment(polarity=0.0625, subjectivity=0.5)
+
+you really care bout dis bitch. my dick all in yo feelings
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+weeknd makes songs for the hoes
+Sentiment(polarity=0.05, subjectivity=0.2)
+
+what a hoe
+Sentiment(polarity=0.5, subjectivity=0.9)
+
+what a little bitch lol
+Sentiment(polarity=0.0, subjectivity=0.06666666666666667)
+
+what to do when your ear hurts like a bitch?
+Sentiment(polarity=0.21212121212121213, subjectivity=0.3515151515151515)
+
+what is wrong with bitches fuck nigga
+Sentiment(polarity=0.0, subjectivity=0.5)
+
+what a broke niggah gone tell her
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+what a clam shame
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+when a bitch say you cant dance http://t.co/GKZj7QNDIF
+Sentiment(polarity=0.10227272727272727, subjectivity=0.4159090909090909)
+
+when ah rich nigga want ur bitch it is nothing u can do... but hope she think about u on dem shopping sprees...
+Sentiment(polarity=0.3333333333333333, subjectivity=0.7999999999999999)
+
+when baylor wins im talking so much trash
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+when bitches be tryna wash their shit on the low lol funny af
+Sentiment(polarity=0.13636363636363635, subjectivity=0.45454545454545453)
+
+when bitches u hate would not stop staring at u in the halls http://t.co/OjNXhoIGdw
+Sentiment(polarity=0.17045454545454544, subjectivity=0.7348484848484849)
+
+when bitches change and start acting like the nigga
+Sentiment(polarity=-0.2, subjectivity=0.5)
+
+when ya name gain weight ya ex bitches cant let go
+Sentiment(polarity=0.2857142857142857, subjectivity=0.5357142857142857)
+
+when ya name gain weight ya ex hoes cannot let go
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+where da ratchet hoes at?
+Sentiment(polarity=0.0, subjectivity=0.1)
+
+where my scene hoes at
+Sentiment(polarity=0.16818181818181818, subjectivity=0.2772727272727273)
+
+which twitter bitch is not selling chokers
+Sentiment(polarity=0.0625, subjectivity=0.5)
+
+why are these freshman so ghetto lmao
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+when you are stupid, you donot know it. life is so easy. have you ever seen a depressed retard? i envy that.
+Sentiment(polarity=0.0, subjectivity=0.75)
+
+whheeet bitch you LYING
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+when yo song come on and you hit the blunt hard af cause that hoe go dat hard
+Sentiment(polarity=0.16666666666666666, subjectivity=0.6666666666666666)
+
+why are people acting like they didnot know hoe allen was going to the cavs 6 months ago?
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+whose pussy better then a crazy bitch?
+Sentiment(polarity=0.9, subjectivity=0.9)
+
+why bitches gotta be bitches
+Sentiment(polarity=-0.25, subjectivity=0.375)
+
+why do little scrawny white boys play ghetto rap music while they walk around
+Sentiment(polarity=-0.4, subjectivity=0.4)
+
+why do hoes think its a good idea to air out their dirty laundry at a public place? bitch im tryna enjoy my burrito
+Sentiment(polarity=0.5, subjectivity=0.5)
+
+why niggas put heart eyes under everybody pictures? 
+Sentiment(polarity=-0.2, subjectivity=0.1)
+
+then it be them poo la la hoes
+Sentiment(polarity=-0.4, subjectivity=0.4)
+
+Dumb bitches do dumb things
+Sentiment(polarity=-0.016666666666666666, subjectivity=0.15555555555555556)
+
+Eat the pussy like a real nigga hungry
+Sentiment(polarity=0.008928571428571425, subjectivity=0.5422619047619047)
+
+Everything look better with a bitch next to it
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+For every bad bitch there is a nigga tired of fucking her
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+Facto @ShaunaSayomi: Who cares if you a hoe when your ass looks like this? http://t.co/CJdT987aqf
+Sentiment(polarity=0.1, subjectivity=1.0)
+
+Foreign chick, no lie.. Man that bitch Beautiful
+Sentiment(polarity=0.13636363636363635, subjectivity=0.45454545454545453)
+
+Fresh nigga so you kno I need a clean bitch... Who kno I am working cuz I wanna see my team rich.','H'),('Fuck 5/0 I make my own rules. Suck my dragon balls bitch call me goku
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+Get me that shit bitch you is fine bear
+Sentiment(polarity=0.4375, subjectivity=0.625)
+
+Get your ass back to Detroit ya fuckin wigger!
+Sentiment(polarity=0.04545454545454545, subjectivity=0.19999999999999998)
+
+Girls that I dated, its okay I am not mad yo, unless you stabbed me in the heart, no love hoe
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+HOW DO YOU KNOW MY TWITTER PASSWORD"" bitch please
+Sentiment(polarity=0.35, subjectivity=0.65)
+
+He a bitch for hitting that hoe
+Sentiment(polarity=-0.025, subjectivity=0.0)
+
+He wanna be my nigga, but I am just trinna be his savings account
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+He married to a white woman... lucky sum-bitch
+Sentiment(polarity=0.2556818181818182, subjectivity=0.6022727272727273)
+
+Her great grandmas a hoe,her grandmas a hoe,her moms and a hoe, and she is a hoe! It is a long line of hoes!
+Sentiment(polarity=0.0, subjectivity=0.7)
+
+Hey pussy you still there?
+Sentiment(polarity=0.25, subjectivity=0.3333333333333333)
+
+omg imma funny ass bitch man, but that is Real Shit
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+How u talking to hoes bout bro n em.. Why you talking to hoes bout bro n em
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+How you doing, crazy bitch?
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+I KNOW my shoes dirty as fuck, whatever, bitch. You donot have to call!
+Sentiment(polarity=0.5, subjectivity=1.0)
+
+I call him my bitch
+Sentiment(polarity=0.5, subjectivity=1.0)
+
+I heard you was looking for Candy Man, bitch
+Sentiment(polarity=0.033333333333333326, subjectivity=0.5666666666666668)
+
+I just got a number 3 I am a bitch boy
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+Sentiment(polarity=-0.15000000000000002, subjectivity=0.8749999999999999)
+

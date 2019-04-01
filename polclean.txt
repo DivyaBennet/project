@@ -1,0 +1,345 @@
+Got it and its amazing hansolo
+Sentiment(polarity=0.6000000000000001, subjectivity=0.9)
+
+SoloAStarWarsStory was even better a second time There were definitely things I missed the first time around I
+Sentiment(polarity=0.1875, subjectivity=0.3333333333333333)
+
+Play the HanSolo Card Game and you could win the MillenniumFalcon Not really its just a game Back in sto
+Sentiment(polarity=-0.019999999999999997, subjectivity=0.27999999999999997)
+
+Star Wars SOLO Pics Games and More via StarWars HanSolo AStarWarsStory SoloAStarWarsStory
+Sentiment(polarity=0.5, subjectivity=0.5)
+
+Just saw soloastarwarsstory 4xd DTLA starwars hanshotfirst rebelwedding movies cinephile
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+Might want to buckle up baby StarWarsBattlefrontII continues its HanSolo season with new additions now available
+Sentiment(polarity=0.2681818181818182, subjectivity=0.42727272727272725)
+
+5 yo cousin very seriously Donna I have to ask u something importantMe Ok5 Why do u like HanSolo
+Sentiment(polarity=-0.43333333333333335, subjectivity=0.8666666666666667)
+
+Backwards Cap Solo Next time you spot our favorite scruffy looking scoundrel snap a pic and post it with
+Sentiment(polarity=0.25, subjectivity=0.5)
+
+New StarWars Battlefront II trailer gives HanSolo gets the Alden Ehrenreich treatment
+Sentiment(polarity=0.13636363636363635, subjectivity=0.45454545454545453)
+
+StarWars HanSolo movie EXPLAINED How did Darth Maul survive and what is Crimson Dawn
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+Tran outrage to blame fans for poor HanSolo performance People do not hate the actress They hate her poor charac
+Sentiment(polarity=-0.30000000000000004, subjectivity=0.75)
+
+StarWars Poll of the day Which lightsaber duel from the prequels is the bestprequel reylo
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+So you didnt like Solo A Star Wars story Well youre entitled to your opinion even if it is stupidstarwars
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+Hurry somebody get that old man some medical assistance His dementia
+Sentiment(polarity=0.05, subjectivity=0.1)
+
+Really dig Pablo not confirming but basically confirming this is a Sith Holocron Really jumped out first time I wa
+Sentiment(polarity=0.21666666666666667, subjectivity=0.24444444444444446)
+
+Working with absolutely amazing skies tonight at Peggys Cove Nova Scotia
+Sentiment(polarity=0.6000000000000001, subjectivity=0.9)
+
+You got to keep going 90yearold celebrates his birthday on the job
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+Nova Scotia shortlisted as potential site for worlds first whale sanctuary CTV News
+Sentiment(polarity=0.125, subjectivity=0.6666666666666666)
+
+Nova Scotia finalist for potential site of worlds first whale sanctuary Global News
+Sentiment(polarity=0.08333333333333333, subjectivity=0.4444444444444444)
+
+Left Melbourne Australia at 9am on Wednesday 6th June Touched down in Halifax Nova Scotia at 1159pm on 6th June
+Sentiment(polarity=-0.07777777777777779, subjectivity=0.14444444444444446)
+
+JobSearch Fire Building Official Municipal NovaScotia
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+Cape Breton pharmacy pulls homeopathic products from shelves CBC News
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+I hate Nova Scotia
+Sentiment(polarity=-0.8, subjectivity=0.9)
+
+An active day for REIT equity raises Multi fam and industrial continue to be sought after
+Sentiment(polarity=-0.13333333333333333, subjectivity=0.6)
+
+this is 2018 get your house in order Horrific racism at Metro Transit stirred up again for family of forme
+Sentiment(polarity=-1.0, subjectivity=1.0)
+
+So now you want to argue semantics K It was their ancestors Just because th
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+Hi Blake Im a Big fan You always give me a good Laugh Hello from Nova Scotia Ive seen almost every
+Sentiment(polarity=0.3333333333333333, subjectivity=0.26666666666666666)
+
+First Of All Id Like to Congratulate my I Am So Extremely Proud of All 5 of you Everyday and Alway
+Sentiment(polarity=0.2833333333333334, subjectivity=0.6444444444444444)
+
+A nice story about a great friend and Mason turning 90 on the job Ill be there one day and hopefully as happy as
+Sentiment(polarity=0.425, subjectivity=0.9375)
+
+Run out of lawn trimmer line in Ontario on Sunday Pick some up in Nova Scotia on WednesdayThis is LifeontheRoad
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+brendon I kinda liked it but cant see myself using it a lot Oh well
+Sentiment(polarity=0.6, subjectivity=0.8)
+
+Thats the recovery partition that is with every installation of Windows new or old They fo
+Sentiment(polarity=0.11818181818181818, subjectivity=0.32727272727272727)
+
+Updated and it created a new partition for some reason sweet
+Sentiment(polarity=0.24318181818181817, subjectivity=0.5522727272727272)
+
+My wallet coughs dust as it laughs at the thought
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+New blog post from posted on Windows 10 Tip How to start creating in Paint 3D
+Sentiment(polarity=0.13636363636363635, subjectivity=0.45454545454545453)
+
+So 10 new update restore all previously opened apps automatically on boot up But why the hell
+Sentiment(polarity=-0.015151515151515152, subjectivity=0.3106060606060606)
+
+Aaarghhhh plus vagrant by on
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+If it happens at start up press CTRLALTDEL and go to Task Manager Go to the startup t
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+I suspect however E is probably going to be pointing to a DVD BluRay drive which in
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+Removing the drive letter will make whatever is in E inaccessible though so you are ful
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+Eg If it mentions Boot Page EFI Crash Dump OEM Partition or anything other than Pr
+Sentiment(polarity=-0.125, subjectivity=0.375)
+
+Hit WinX go to Computer Management under Storage gt Disk Management find whatever has
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+Years ago I used to use a Mac but then I switched to and I couldnt imagine how I lived without it Mac is
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+And Windows running on top of DOS was known as the dreaded memory hog
+Sentiment(polarity=0.5, subjectivity=0.5)
+
+Its time for me to AgeYourselfIn3WordsWindows And DOS lt Remember These LOL
+Sentiment(polarity=0.8, subjectivity=0.7)
+
+Wow total scumbags what happened to deporting hard core criminals POTUS realDonaldTrump TrumpCrimeFamily Trump
+Sentiment(polarity=-0.0638888888888889, subjectivity=0.7638888888888888)
+
+And they all see him realDonaldTrump as a tool Using his wanna be attitude to milk America dry Put a pape
+Sentiment(polarity=-0.06666666666666665, subjectivity=0.6)
+
+Trump appointment branded idiot So it shall be Id be embarrassed if Trump appointed me to anything
+Sentiment(polarity=-0.8, subjectivity=0.8)
+
+Heather Nauert another Trump moron makes a fool of America Why dont you and that lackey ambassador to
+Sentiment(polarity=-0.8, subjectivity=1.0)
+
+Good I dont like Jeff sessions anyway hes anticannabis realDonaldTrump
+Sentiment(polarity=0.7, subjectivity=0.6000000000000001)
+
+You keep on getting US confused with your own family Your family are a bunch of pathetic losers realDonaldTrump
+Sentiment(polarity=-0.25, subjectivity=0.7250000000000001)
+
+They should rename you The insult to injury president realDonaldTrump
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+GOD You are a f idiot realDonaldTrump HARVEY
+Sentiment(polarity=-0.8, subjectivity=0.8)
+
+45 Liberals gonna HATE this Anything good realDonaldTrump is responsibl
+Sentiment(polarity=-0.050000000000000044, subjectivity=0.75)
+
+Rudy Giuliani says that Stormy Danielss reputation doesnt exist since she exhibited her body for money Now w
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+Just like realDonaldTrump s wife Jeff Sessions sits far away from King Sleaze as possible
+Sentiment(polarity=0.05, subjectivity=1.0)
+
+Happy 2nd anniversary to this tweet President Trump hasnt held a full solo news conferen
+Sentiment(polarity=0.3833333333333333, subjectivity=0.5166666666666667)
+
+realdonaldtrumpTop Republicans break with Trump say FBI acted appropriately
+Sentiment(polarity=0.5, subjectivity=0.5)
+
+Solid realDonaldTrump is a good man
+Sentiment(polarity=0.35, subjectivity=0.35000000000000003)
+
+This morning lock screen is iOS12
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+Can confirm With iOS12 iP7 seems faster Grouped notifications are a major plus
+Sentiment(polarity=0.0625, subjectivity=0.5)
+
+Siri can interact with media apps like Spotify in iOS12
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+News from WWDC2018 for digitalmarketer 1 Apple expanding into digital ad business nearly 1 billion in reven
+Sentiment(polarity=0.05, subjectivity=0.2)
+
+The latest redbird ios12 xiaomi
+Sentiment(polarity=0.5, subjectivity=0.9)
+
+From where we can download verified iOS 12 Beta Also does anyone known public beta release date wwdc18 ios12 ios
+Sentiment(polarity=0.0, subjectivity=0.06666666666666667)
+
+Love Siris new South African accent IOS12
+Sentiment(polarity=0.21212121212121213, subjectivity=0.3515151515151515)
+
+cook iOS back on track with iOS12 Lack of dual SIM support in iPhone is the only barrier to reenter Apple ecosystem
+Sentiment(polarity=0.0, subjectivity=0.5)
+
+iOS12 will let users register another person to their FaceID
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+I now have iOS12 running on my iPadPro125 iPhone8Plus and iPhoneX and all devices have 0 issues
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+A video is released on my new personal channel Go check is out Whats new in iOS 12 5 new features iOS12 WWDC18
+Sentiment(polarity=0.10227272727272727, subjectivity=0.4159090909090909)
+
+iOS12 fixes so many things I thought were wrong with iOS Its awesome I just hope it doesnt have a lot of bugs WWDC18 Apple
+Sentiment(polarity=0.3333333333333333, subjectivity=0.7999999999999999)
+
+i dont see the shortcuts app on my ios12 beta is app being gradually rolled out
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+I uploaded a new episode Moto Z3 Play Mac Compatibles Con Mojave Regresa El Messenger de MSN on spreaker
+Sentiment(polarity=0.13636363636363635, subjectivity=0.45454545454545453)
+
+I am the only one excited about the new redesigned Apple Stock App for iOS 12 and MacOS Mojave WWDC18 WWDC2018
+Sentiment(polarity=0.17045454545454544, subjectivity=0.7348484848484849)
+
+Heavy Equipment Mining Service Technician Diesel Mechanic Mojave CA Get Pipefitter Jobs
+Sentiment(polarity=-0.2, subjectivity=0.5)
+
+macOS Mojave Am I reading it right Apple
+Sentiment(polarity=0.2857142857142857, subjectivity=0.5357142857142857)
+
+Eh for 3 i dont want my os Ubuntu or Mojave sorting my desktop files for me I like my organized chaos
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+Go on cook i think its a big satisfaction from everyone about iOS12 Mojave watchOS5 WWDC18
+Sentiment(polarity=0.0, subjectivity=0.1)
+
+Well done The new features in Mojave are on point and I greatly appreciated Shout out to the design team
+Sentiment(polarity=0.16818181818181818, subjectivity=0.2772727272727273)
+
+Is it just me or does iPhone X iOS12 and MBP Mojave have major issues with connecting to AirPods trying
+Sentiment(polarity=0.0625, subjectivity=0.5)
+
+Inside Apples move to ramp up security amp privacy in iOS 12 amp macOS Mojave
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+I finally got the shot After countless missed opportunities I managed to get this from the passenger seat of an 1
+Sentiment(polarity=0.0, subjectivity=0.75)
+
+How continuty camera works in macOS Mojave and IOS 12apple iphoneX macbook macs
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+Me How many HomeKit devices do I haveSiri Sorry I cant help you with thatMe Turn off the lightsSiri OK t
+Sentiment(polarity=0.16666666666666666, subjectivity=0.6666666666666666)
+
+Apple rivela macOS Mojave
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+Hoping eventually brings darkmode to iOS Looks incredible on macOS Mojave
+Sentiment(polarity=0.9, subjectivity=0.9)
+
+darkmode on is fucking slick mojave
+Sentiment(polarity=-0.25, subjectivity=0.375)
+
+Not watching Game 4 Prepping for E3 instead
+Sentiment(polarity=-0.4, subjectivity=0.4)
+
+5 more days to go E3
+Sentiment(polarity=0.5, subjectivity=0.5)
+
+Tetris remixed by the creator of Rez and Lumines e3 doesnt start for a few days but damn decade o
+Sentiment(polarity=-0.2, subjectivity=0.1)
+
+E3 Its that time of year again when the biggest game companies in the world descend on Los Angeles to show off ju
+Sentiment(polarity=-0.4, subjectivity=0.4)
+
+NintendoDirect for E32018 will be 45 minutes long Thats almost double of last years and just think of all the s
+Sentiment(polarity=-0.016666666666666666, subjectivity=0.15555555555555556)
+
+E32018 First possible fail of e3 microsoft While just a rumor right now crackdown 3 appears to be delayed i
+Sentiment(polarity=0.008928571428571425, subjectivity=0.5422619047619047)
+
+This is not Halo 6 E3 Reveal
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+This just shows that even a week out even the E3 organizers knew theyve oversold tickets for this years show
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+The E3 leaks have gone to far now
+Sentiment(polarity=0.1, subjectivity=1.0)
+
+A new Syphon Filter would be kick ass I still have hope for a remake for Xenogears and Legend Of Dragoon E3 E32018
+Sentiment(polarity=0.13636363636363635, subjectivity=0.45454545454545453)
+
+Its almost time for E3
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+What are you most excited for at E3 this year
+Sentiment(polarity=0.4375, subjectivity=0.625)
+
+We are live on twitch for the weekly podcast With E3 starting next week we are digging into rumors and what we e
+Sentiment(polarity=0.04545454545454545, subjectivity=0.19999999999999998)
+
+I want Fable 4 dont forget to add another swinger achievement thx fable4 microsoft e3
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+E3 starts so early it has its own preorder window
+Sentiment(polarity=0.35, subjectivity=0.65)
+
+firey mane stretched across the sky blotting out the sun The beast cast its head back releasing an earthshak
+Sentiment(polarity=-0.025, subjectivity=0.0)
+
+A phox in a boxphox braixen box pokemon
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+Nintendo GameBoyAdvance Pokmon Ruby Version BOX ORIGINAL needs new battery eBay Pokemon
+Sentiment(polarity=0.2556818181818182, subjectivity=0.6022727272727273)
+
+The best worst freakiest and most wtf Pokemon from that 1997 prerelease demo
+Sentiment(polarity=0.0, subjectivity=0.7)
+
+Shiny Lickitung in PokemonQuest At first I couldnt tell what the Pokmon was by its silhouette as I didnt have
+Sentiment(polarity=0.25, subjectivity=0.3333333333333333)
+
+Yo Squidward where you at Nosepass UltimatePokmonQuest Pokemon
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+I drew my boy Cyndaquil sketch pokemon
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+Snorunt Snorunt snow pokemon
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+Question of the Day Who is your favorite Pokemon Gym Leader pokemon gym qotd
+Sentiment(polarity=0.5, subjectivity=1.0)
+
+Pokemon GO Fans Created Hilarious Memes
+Sentiment(polarity=0.5, subjectivity=1.0)
+
+Man Raichu never gets enough credit People love Pikachu cause hes the face of the franchise but poor Raichu is a
+Sentiment(polarity=0.033333333333333326, subjectivity=0.5666666666666668)
+
+Dont know if I posted this finished terrarium but its one of my favorites pokemon pkmn pokemongo pikachu
+Sentiment(polarity=0.0, subjectivity=0.0)
+
+Charizard Pokemon Card Collection Base Set Hyper Rare Secret Rare PSA LK eBay Nintendo
+Sentiment(polarity=-0.15000000000000002, subjectivity=0.8749999999999999)
+
